@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? My Gamejolt is Chameleon_Gamer
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chameleon-Coder&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Chameleon-Coder&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 <!---
 Chameleon-Coder/Chameleon-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
