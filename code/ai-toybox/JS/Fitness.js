@@ -5,7 +5,7 @@ const configuration = new Configuration({
 });
 const openai = new OpenAIApi(configuration);
 
-const response = await openai.createCompletion({
+const response = await; openai.createCompletion({
   model: "text-davinci-002",
   prompt: "Brainstorm some ideas combining VR and fitness:",
   temperature: 0.6,
