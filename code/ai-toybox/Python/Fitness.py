@@ -10,5 +10,5 @@ response = openai.Completion.create(
     max_tokens=150,
     top_p=1.0,
     frequency_penalty=1,
-    presence_penalty=1
+    presence_penalty=1,
 )
