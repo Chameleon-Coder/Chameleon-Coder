@@ -5,7 +5,7 @@
 - 📫 To reach me, you can use my [discussions](https://pages.github.com/).
   [![trophy](https://github-profile-trophy.vercel.app/?username=Chameleon-Coder&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Chameleon-Coder&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chameleon-Coder&bg_color=000000&color=ffffff&line=ffffff&point=ada4a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Chameleon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chameleon-Coder&bg_color=000000&color=ffffff&line=ffffff&point=ada4a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-treenuts.svg)](http://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](http://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
