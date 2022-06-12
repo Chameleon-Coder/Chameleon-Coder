@@ -1,7 +1,7 @@
 # Heya, I’m @Chameleon-Coder
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some sort of game project. The organization is [Placeholder](https://github.com/Chameleon-Coder)
 - 📫 To reach me, you can use my [discussions](https://pages.github.com/).
 # Check out my badges and stats!
   [![trophy](https://github-profile-trophy.vercel.app/?username=Chameleon-Coder&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
