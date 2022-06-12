@@ -2,7 +2,6 @@
 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on some sort of game project. The organization is [Placeholder](https://github.com/Chameleon-Coder)
 - 📫 To reach me, you can use my [discussions](https://pages.github.com/).
 
 # Check out my badges and stats!
@@ -22,4 +21,12 @@
 [![forthebadge](https://forthebadge.com/images/badges/certified-cousin-terio.svg)](https://forthebadge.com)
 [![My Image](https://raw.githubusercontent.com/Chameleon-Coder/Chameleon-Coder/1560a05ed7f23917dde369b0aa1fbb370ad8332b/contains-papyrus-undertale.svg)](https://forthebadge.com)
 
-#
+# Games I've made
+
+## Regular Games
+
+None as of now.
+
+## Fangames
+
+- [Hyperlink Blocked - A Spamton Story](https://github.com/Chameleon-Coder/hyperlink-blocked)
