@@ -22,11 +22,4 @@
 [![My Image](https://raw.githubusercontent.com/Chameleon-Coder/Chameleon-Coder/1560a05ed7f23917dde369b0aa1fbb370ad8332b/contains-papyrus-undertale.svg)](https://forthebadge.com)
 
 # Games I've made
-
-## Regular Games
-
-None as of now.
-
-## Fangames
-
-- [Hyperlink Blocked - A Spamton Story](https://github.com/Chameleon-Coder/hyperlink-blocked)
+Coming Soon.
