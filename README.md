@@ -1,7 +1,7 @@
 # Heya, I’m @Chameleon-Coder
 
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning how to code
+- 👀 I’m interested in coding!
+- 🌱 I’m currently learning how to code.
 - 📫 To reach me, you can use my [discussions](https://pages.github.com/).
 
 # Check out my badges and stats!
@@ -22,4 +22,5 @@
 [![My Image](https://raw.githubusercontent.com/Chameleon-Coder/Chameleon-Coder/1560a05ed7f23917dde369b0aa1fbb370ad8332b/contains-papyrus-undertale.svg)](https://forthebadge.com)
 
 # Games I've made
+
 Coming Soon.
