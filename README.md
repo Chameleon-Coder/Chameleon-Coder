@@ -1,4 +1,4 @@
-# Heya, I’m @Chameleon-Coder
+# Heya! My name's Chameleon!
 
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning how to code.
