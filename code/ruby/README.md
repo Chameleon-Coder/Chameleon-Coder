@@ -1,2 +1,2 @@
 # Ruby Code (done by Chameleon)
-A cave of just rubies.
+A folder of just .rb files.
