@@ -1,7 +1,7 @@
 # Heya, I’m @Chameleon-Coder
 
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning how to code
+- 👀 I’m interested in coding!
+- 🌱 I’m currently learning how to code.
 - 📫 To reach me, you can use my [discussions](https://pages.github.com/).
 
 # Check out my badges and stats!
