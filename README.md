@@ -12,7 +12,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chameleon-Coder)](https://github.com/anuraghazra/github-readme-stats)
 ![Chameleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chameleon-Coder&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chameleon-Coder&theme=dark)](https://git.io/streak-stats)
+
 # Badge Collection!
+
 [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-treenuts.svg)](http://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](http://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
