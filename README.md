@@ -3,6 +3,7 @@
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning how to code.
 - 📫 To reach me, you can use my [discussions](https://github.com/Chameleon-Coder/Chameleon-Coder/discussions), my [Gitter community](https://gitter.im/Chameleon-Coder/general), or my [Element chat space](https://matrix.to/#/#chat-with-chameleon:matrix.org).
+
 # Check out my stats!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chameleon-Coder&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
@@ -24,6 +25,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/certified-cousin-terio.svg)](https://forthebadge.com)
 [![My Image](https://raw.githubusercontent.com/Chameleon-Coder/Chameleon-Coder/1560a05ed7f23917dde369b0aa1fbb370ad8332b/contains-papyrus-undertale.svg)](https://forthebadge.com)
+
 # Games I've made
 
 Coming Soon.
