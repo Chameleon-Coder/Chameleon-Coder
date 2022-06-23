@@ -26,7 +26,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/certified-cousin-terio.svg)](https://forthebadge.com)
 [![My Image](https://raw.githubusercontent.com/Chameleon-Coder/Chameleon-Coder/1560a05ed7f23917dde369b0aa1fbb370ad8332b/contains-papyrus-undertale.svg)](https://forthebadge.com)
-[![Gitter](https://img.shields.io/gitter/room/Chameleon-Coder/Chameleon-Coder?style=for-the-badge)](https://gitter.im/Chameleon-Coder/community)
+[![Gitter](https://img.shields.io/gitter/room/Chameleon-Coder/Chameleon-Coder?style=for-the-badge)](https://gitter.im/Chameleon-Coder/community) [![Join the chat at https://gitter.im/Chameleon-Coder/general](https://badges.gitter.im/Chameleon-Coder/general.svg)](https://gitter.im/Chameleon-Coder/general?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Games I've made
 
