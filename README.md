@@ -9,8 +9,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chameleon-Coder&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Chameleon-Coder&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 [![Chameleon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chameleon-Coder&bg_color=000000&color=ffffff&line=ffffff&point=ada4a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chameleon-Coder)](https://github.com/anuraghazra/github-readme-stats)
-![Chameleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chameleon-Coder&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chameleon-Coder&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Chameleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chameleon-Coder&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chameleon-Coder&theme=dark)](https://git.io/streak-stats)
 
 # Badge Collection!
