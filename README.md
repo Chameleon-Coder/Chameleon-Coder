@@ -33,3 +33,7 @@
 # Games I've made
 
 Coming Soon.
+
+# Little Friend
+
+This is my friend here. Say hi to him.
