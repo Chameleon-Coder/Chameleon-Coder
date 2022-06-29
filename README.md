@@ -37,4 +37,4 @@ Coming Soon.
 # Little Friend
 
 This is my friend here. Say hi to him.
-![Friend](https://raw.githubusercontent.com/Chameleon-Coder/Chameleon-Coder/Rainbows/Friend.png)
+![Friend](https://raw.githubusercontent.com/Chameleon-Coder/Chameleon-Coder/Friend.png)
