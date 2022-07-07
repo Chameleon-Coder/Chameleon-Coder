@@ -41,4 +41,4 @@ This is my friend here. Say hi to him.
 
 # Meme Dump
 
-![Fart](https://raw.githubusercontent.com/Chameleon-Coder/Chameleon-Coder/peas/thing.png)
+![Fart](https://raw.githubusercontent.com/Chameleon-Coder/Chameleon-Coder/main/thing.png)
