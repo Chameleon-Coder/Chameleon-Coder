@@ -2,5 +2,5 @@
 
 (............it's silent.)
 (Trespass anyway?)
-- [Yes](/JavaScript)
+- [Yes](/ai-toybox/JS)
 - [No](..)
