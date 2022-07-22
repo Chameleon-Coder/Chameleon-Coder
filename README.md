@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how to code.
 - 📫 To reach me, you can use my [discussions](https://github.com/Chameleon-Coder/Chameleon-Coder/discussions), my [Gitter community](https://gitter.im/Chameleon-Coder/general), or my [Element chat space](https://matrix.to/#/#chat-with-chameleon:matrix.org).
 
-# Have a joke.
+# Have a dad joke.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
