@@ -1,4 +1,5 @@
 # Heya! My name's Chameleon!
+
 - :man_technologist: My pronouns are he/him.
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning how to code.
@@ -38,7 +39,7 @@ Coming Soon.
 # Little Friend
 
 This is my friend here. Say hi to him.
-![Friend](https://user-images.githubusercontent.com/101677796/176514344-4d59cb45-0a68-4a48-a37d-f3ad47574d5e.png)
+![Friend](https://user-images.githubusercontent.com/101677796/176514344-4d59cb45-0a68-4a48-a37d-f3ad47574d5e.webp)
 
 # Meme Dump
 
