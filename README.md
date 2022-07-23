@@ -36,11 +36,11 @@
 
 Coming Soon.
 
-# Little Friend
-
-This is my friend here. Say hi to him.
-![Friend](https://user-images.githubusercontent.com/101677796/176514344-4d59cb45-0a68-4a48-a37d-f3ad47574d5e.webp)
-
+# Other Heroes
+- [Hollyberry Cookie](https://github.com/W)
+- [Pure Vanilla Cookie](https://github.com/X)
+- [Golden Cheese Cookie](https://github.com/Y)
+- [White Lily Cookie](https://github.com/Z)
 # Meme Dump
 
 ![Fart](https://raw.githubusercontent.com/Chameleon-Coder/Chameleon-Coder/main/thing.png)
