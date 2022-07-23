@@ -36,11 +36,6 @@
 
 Coming Soon.
 
-# Other Heroes
-- [Hollyberry Cookie](https://github.com/W)
-- [Pure Vanilla Cookie](https://github.com/X)
-- [Golden Cheese Cookie](https://github.com/Y)
-- [White Lily Cookie](https://github.com/Z)
 # Meme Dump
 
 ![Fart](https://raw.githubusercontent.com/Chameleon-Coder/Chameleon-Coder/main/thing.png)
