@@ -4,7 +4,7 @@
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning how to code.
 - 📫 To reach me, you can use my [discussions](https://github.com/Chameleon-Coder/Chameleon-Coder/discussions), my [Gitter community](https://gitter.im/Chameleon-Coder/general), or my [Element chat space](https://matrix.to/#/#chat-with-chameleon:matrix.org).
-- :chocolate_bar: I love chocolate. That also includes chocolate-themed Cookie Run characters. Especially Dark Cacao. He's the coolest.
+- 🍦 I love vanilla, whether it's ice cream or software!
 
 # Have a dad joke.
 
