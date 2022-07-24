@@ -11,12 +11,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 # Check out my stats!
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Chameleon-Coder&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Chameleon-Coder&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-[![Chameleon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chameleon-Coder&bg_color=000000&color=ffffff&line=ffffff&point=ada4a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chameleon-Coder&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Chameleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chameleon-Coder&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chameleon-Coder&theme=dark)](https://git.io/streak-stats)
+![Metrics](https://metrics.lecoq.io/Chameleon-Coder?template=classic&repositories.forks=true&isocalendar=1&languages=1&followup=1&stars=1&people=1&projects=1&code=1&activity=1&achievements=1&notable=1&discussions=1&lines=1&repositories=1&gists=1&introduction=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&followup.archived=true&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&repositories.pinned=0&introduction.title=true&config.timezone=America%2FNew_York)
 
 # Badge Collection!
 
