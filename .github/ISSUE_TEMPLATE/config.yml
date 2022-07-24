@@ -1,5 +1,11 @@
 blank_issues_enabled: true
 contact_links:
   - name: Chat
-    url: https://github.com/Chameleon-Coder/Chameleon-Coder/discussions
-    about: Chat goes in the discussions, not the issues.
+    url: https://matrix.to/#/#chat-with-chameleon:matrix.org
+    about: Chat goes in my Matrix chat space, not the issues.
+  - name: Code Help
+    url: https://github.com/Chameleon-Coder/Chameleon-Coder/discussions/categories/code-help
+    about: If you need help with code, go to the discussions category.  
+  - name: Advertising
+    url: https://github.com/Chameleon-Coder/Chameleon-Coder/discussions/categories/ads
+    about: If you need to advertise me something, go to the discussions category.
