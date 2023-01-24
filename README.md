@@ -6,6 +6,10 @@
 - 📫 To reach me, you can use my [discussions](https://github.com/Chameleon-Coder/Chameleon-Coder/discussions), my [Gitter community](https://gitter.im/Chameleon-Coder/general), or my [Element chat space](https://matrix.to/#/#chat-with-chameleon:matrix.org).
 - 🍦 I love vanilla, whether it's ice cream or software!
 
+# Want to give me internets?
+
+[Click here](https://internetometer.com/give/48245)!
+
 # Have a dad joke.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
