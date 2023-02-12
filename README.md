@@ -4,7 +4,7 @@
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning how to code.
 - 📫 To reach me, you can use my [discussions](https://github.com/Chameleon-Coder/Chameleon-Coder/discussions), my [Gitter community](https://gitter.im/Chameleon-Coder/general), or my [Element chat space](https://matrix.to/#/#chat-with-chameleon:matrix.org).
-- 🍦 I love vanilla, whether it's ice cream or software!
+- :chess_pawn: I love chess, especially fairy pieces!
 
 # Click here to give internets (you don't need to, but it makes me cooler)
 <a href='http://internetometer.com/give/48245'><img src='http://internetometer.com/image/48245.png'/></a>
