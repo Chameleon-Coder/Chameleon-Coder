@@ -8,7 +8,7 @@
 
 # Click here to give internets (you don't need to, but it makes me cooler)
 
-<a href='http://internetometer.com/give/48245'><img src='http://internetometer.com/image/48245.png'/></a>
+<a href='http://internetometer.com/give/48245'><img src='http://internetometer.com/imagesmall/48245.png'/></a>
 
 # Have a dad joke.
 
