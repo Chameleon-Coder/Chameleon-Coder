@@ -5,10 +5,13 @@ contact_links:
     about: Chat goes in my Matrix chat space, not the issues.
   - name: Code Help
     url: https://github.com/Chameleon-Coder/Chameleon-Coder/discussions/categories/code-help
-    about: If you need help with code, go to the discussions category.  
+    about: If you need help with code, go to the Code Help category in the forum.  
   - name: Advertising
     url: https://github.com/Chameleon-Coder/Chameleon-Coder/discussions/categories/ads
-    about: If you need to advertise me something, go to the discussions category.
-  - name: Theorizing
-    url: https://github.com/Chameleon-Coder/Chameleon-Coder/discussions/categories/theorizing
-    about: If you need to theorize something, go to the discussions category.
+    about: If you need to advertise me something, go to the Ad category in the forum.
+  - name: Chessology
+    url: https://github.com/Chameleon-Coder/Chameleon-Coder/discussions/categories/chessology
+    about: If you need to talk about Chess, go to the Chessology category in the forum.
+  - name: Spamton
+    url: https://deltarune.com/chair
+    about: If you want Spamton, go to the chair.
